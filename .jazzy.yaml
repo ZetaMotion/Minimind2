@@ -1,0 +1,7 @@
+# Minimind2 document generator jazzy settings
+
+copyright: Copyright 2020 Zeta Motion LTD
+author: Huy Phan
+xcodebuild_arguments: [-target, Minimind2-iOS]
+clean: true
+output: ./Documentation
