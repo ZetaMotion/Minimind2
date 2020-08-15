@@ -61,8 +61,7 @@ Please see playground files for examples. Some wrapper functions for Accelerate 
 ## Matrix Operations, side-by-side with numpy
 ```swift
 import Foundation
-import Surge
-import minimind
+import Minimind2
 
 // random matrix
 let m: Matrix<Float> = randMatrix(3, 3)
