@@ -21,9 +21,11 @@
 </p>
 
 
-# Minimind2: A Minimalist Machine Learning Library written in Swift
+# Minimind2: A Minimalist Machine Learning Library written in Swift 5.0
 
-The main focus of this library is **dimensionality reduction**, **manifold learning** and **multi-output regression**. Minimind2 allows fast mobile app prototyping by providing a friendly numpy-like interface and native performance on iOS and MacOS. See playground files for examples. Some wrapper functions for Accelerate were borrowed from [Surge](https://github.com/mattt/Surge).
+Minimind2 allows fast prototyping by providing a friendly numpy-like interface and native performance on iOS and macOS. Designed around Swift's extension paradigm, Minimind2's Array and Matrix support a wide range of data types, including Float[16, 32], Double, [U]Int[8,16,32,64], Bool and even String. Minimind2 automatically makes use of  hardware acceleration whenever it is available via Accelerate, vDSP and vImage.
+
+Please see playground files for examples. Some wrapper functions for Accelerate are borrowed from [Surge](https://github.com/mattt/Surge).
 
 ## Learning A Predictive Distribution
 ![Predictive](https://github.com/fqhuy/minimind/blob/master/doc/images/regression.png)
