@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="200" src="https://raw.githubusercontent.com/SvenTiigi/SwiftKit/gh-pages/readMeAssets/SwiftKitLogo.png" alt="Minimind2 Logo">
+   <img width="200" src="https://github.com/fqhuy/minimind/blob/master/doc/images/minimind128.png" alt="Minimind2 Logo">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 
-# ![minimind](https://github.com/fqhuy/minimind/blob/master/doc/images/minimind128.png) Minimind2: A Minimalist Machine Learning Library written in Swift
+# Minimind2: A Minimalist Machine Learning Library written in Swift
 
 The main focus of this library is **dimensionality reduction**, **manifold learning** and **multi-output regression**. Minimind2 allows fast mobile app prototyping by providing a friendly numpy-like interface and native performance on iOS and MacOS. See playground files for examples. Some wrapper functions for Accelerate were borrowed from [Surge](https://github.com/mattt/Surge).
 
